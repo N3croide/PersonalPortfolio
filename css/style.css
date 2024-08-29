@@ -13,14 +13,14 @@
 
 @font-face {
     font-family: 'Baunk';
-    src: url('resources/font/Baunk.ttf') format('truetype');
+    src: url('/resources/font/Baunk.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Morganite';
-    src: url('resources/font/morganite/Morganite-Light.ttf') format('truetype');
+    src: url('/resources/font/morganite/Morganite-Light.ttf') format('truetype');
     
 }
 
